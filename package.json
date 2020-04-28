@@ -1,0 +1,22 @@
+{
+  "name": "vidideas",
+  "version": "1.0.0",
+  "description": "videos ideas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LOTFY",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "mogoose": "0.0.1-security",
+    "mongoose": "^5.9.10",
+    "mongoose-error": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/mongoose": "^5.7.13"
+  }
+}
