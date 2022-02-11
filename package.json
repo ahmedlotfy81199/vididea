@@ -11,7 +11,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
-    "express-handlebars": "^4.0.3",
+    "express-handlebars": "^5.3.1",
     "mogoose": "0.0.1-security",
     "mongoose": "^5.9.10",
     "mongoose-error": "^1.0.1"
